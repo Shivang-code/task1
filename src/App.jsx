@@ -1,6 +1,6 @@
 import React from "react";
 import PhotoBar from "./PhotoBar";
-import { BrowserRouter, Routes, Route } from "react-router";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Provider } from "react-redux";
 import { store } from "./store";
 
